@@ -29,6 +29,6 @@ E por fim,tem-se que:
 
 <p align="center">
 
-  <img width="500" src="" alt="Material Bread logo">
+  <img width="300" src="https://github.com/nathanaelduque/Queda-de-tensao/blob/main/Separe.png" alt="Material Bread logo">
   
 </p>
