@@ -22,5 +22,6 @@ E por fim,tem-se que:
 
 *OBS: Para Tal calculo foram usadas as distâncias padrão entre AB,BC E AC, sendo as mesmas 762 [m],1,3716 [m] e Dac= 2,1336 [m], respectivamente.*
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<p align="center">
+  ![Separação](https://github.com/nathanaelduque/Queda-de-tensao/blob/main/Separa.png)
+</p>
