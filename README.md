@@ -20,8 +20,15 @@ E por fim,tem-se que:
 <p align="center">ΔV= Kdroop.S.L</p>
 
 
-*OBS: Para Tal calculo foram usadas as distâncias padrão entre AB,BC E AC, sendo as mesmas 762 [m],1,3716 [m] e Dac= 2,1336 [m], respectivamente.*
+*OBS: Para Tal calculo foram usadas as distâncias padrão entre AB,BC E AC, sendo as mesmas 762 [m],1,3716 [m] e Dac= 2,1336 [m], respectivamente.Tais distâncias podem ser vistas na Figura 01.*
+
+
+
+
+<p align="center">Figura 01:Distância entre os cabos</p>
 
 <p align="center">
-  ![Separação](https://github.com/nathanaelduque/Queda-de-tensao/blob/main/Separa.png)
+
+  <img width="400" src="https://github.com/nathanaelduque/Queda-de-tensao/blob/main/Separa.png" alt="Material Bread logo">
+  
 </p>
