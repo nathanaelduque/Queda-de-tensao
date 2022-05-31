@@ -1,4 +1,4 @@
-# Queda-de-tensao
+# Queda de tensao
 Programa que irá calcular a queda de tensão em um determinado trecho do ramal, ao se colocar uma nova carga sobre o mesmo. Para fazer tal cálculo ele pedirá alguns dados de entrada, tais como:
 
 - Código Canadense do Cabo Utilizado 
